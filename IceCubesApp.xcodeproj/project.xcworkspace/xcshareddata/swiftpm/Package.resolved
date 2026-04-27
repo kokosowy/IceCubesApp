@@ -123,8 +123,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftlang/swift-toolchain-sqlite",
       "state" : {
-        "revision" : "b626d3002773b1a1304166643e7f118f724b2132",
-        "version" : "1.0.4"
+        "revision" : "c0ecc1e0fd1b4fbc38db1efa6113bc12c2a4e559",
+        "version" : "1.0.9"
       }
     },
     {
