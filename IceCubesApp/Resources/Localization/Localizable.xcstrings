@@ -351,6 +351,12 @@
             "value" : "%@"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -775,6 +781,12 @@
             "value" : "%@ is geplaatst op Mastodon"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ został opublikowany na Mastodonie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -928,6 +940,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld."
+          }
+        },
+        "pl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld."
@@ -8515,7 +8533,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napisz post"
+            "value" : "Napisz"
           }
         },
         "pt-BR" : {
@@ -9064,6 +9082,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Account"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konto"
           }
         },
         "pt-BR" : {
@@ -11788,8 +11812,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Blocked accounts"
+            "state" : "translated",
+            "value" : "Konta zablokowane"
           }
         },
         "pt-BR" : {
@@ -13652,6 +13676,12 @@
             "value" : "Verwijder profielfoto"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usuń awatar"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14203,6 +14233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verwijder omslagfoto"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usuń nagłówek"
           }
         },
         "pt-BR" : {
@@ -17786,8 +17822,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Muted accounts"
+            "state" : "translated",
+            "value" : "Konta wyciszone"
           }
         },
         "pt-BR" : {
@@ -20563,6 +20599,12 @@
             "state" : "translated",
             "value" : "Aggiunge i tasti @ e # alla tastiera per scrivere menzioni e hashtag più velocemente."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaje @ oraz # bezpośrednio na klawiaturze dla szybszych wzmianek i hasztagów."
+          }
         }
       }
     },
@@ -20828,6 +20870,12 @@
             "value" : "첨부될 이미지에 대한 설명"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tekst alternatywny dla obrazka"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20880,6 +20928,12 @@
             "value" : "Er is een fout opgetreden tijdens het plaatsen van het bericht op Mastodon, probeer het nogmaals."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wystąpił błąd podczas publikowania na Mastodonie, spróbuj ponownie."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20930,6 +20984,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "API 버전"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wersje API"
           }
         },
         "pt-BR" : {
@@ -21104,6 +21164,12 @@
             "value" : "AppAccount"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konto aplikacji"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21174,6 +21240,12 @@
             "value" : "Bladwijzers"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakładki"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21226,6 +21298,12 @@
             "value" : "부스트 버튼 동작"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Działanie przycisku podbicia"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21260,6 +21338,12 @@
             "value" : "본문"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opis"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21292,6 +21376,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "글 본문"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opis twojego postu"
           }
         },
         "pt-BR" : {
@@ -21332,6 +21422,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "여백 넓게 표시"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Układ pomniejszony"
           }
         },
         "pt-BR" : {
@@ -21398,6 +21494,12 @@
             "value" : "글 작성 화면 열기"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napisz post"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21462,6 +21564,12 @@
             "value" : "글 작성 화면 열기"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napisz post na Mastodonie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21524,6 +21632,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "게시할 글 내용"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zawartość postu do wysłania na Mastodon"
           }
         },
         "pt-BR" : {
@@ -23137,6 +23251,12 @@
             "value" : "DeepL kan niet worden bereikt. Klopt de API-sleutel? "
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie udało się nawiązać połączenia z DeepL!\nCzy klucz API jest poprawny?"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23187,6 +23307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "게시될 이미지에 대한 설명 (순서대로)"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alternatywne opisy dla twoich obrazków w kolejności"
           }
         },
         "pt-BR" : {
@@ -27598,6 +27724,12 @@
             "value" : "오류: %@"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Błąd: %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27648,6 +27780,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ondekken en nieuws"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odkrywaj i popularne"
           }
         },
         "pt-BR" : {
@@ -29307,7 +29445,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Popularne linki"
           }
         },
@@ -29744,6 +29882,12 @@
             "value" : "Favorieten"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Polubione"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29800,6 +29944,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "기능 추가 요청"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Propozycje nowych funkcji"
           }
         },
         "pt-BR" : {
@@ -29872,6 +30022,12 @@
             "value" : "Gefedereerde tijdlijn"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strumień globalny"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29910,6 +30066,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Carica tutti i nuovi post delle timeline (fino a 800) invece che solo gli ultimi 40 + i restanti manualmente."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobiera wszystkie nowe posty strumienia (do 800) zamiast tylko ostatnich 40 + ręczne uzupełnianie przerw."
           }
         }
       }
@@ -32220,6 +32382,12 @@
             "value" : "Gevolgde tags"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obserwowane hasztagi"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32290,6 +32458,12 @@
             "value" : "Alleen volgers"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tylko obserwowani"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32328,6 +32502,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Caricamento completo timeline"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobierz pełny strumień"
           }
         }
       }
@@ -32374,6 +32554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Start"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strumień strony głównej"
           }
         },
         "pt-BR" : {
@@ -32446,6 +32632,12 @@
             "value" : "Afbeelding"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obrazek"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32498,6 +32690,12 @@
             "value" : "이미지 설명"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opis obrazka"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32530,6 +32728,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 설명"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opisy obrazków"
           }
         },
         "pt-BR" : {
@@ -32576,6 +32780,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "첨부할 이미지"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obrazek do publikacji na Mastodonie"
           }
         },
         "pt-BR" : {
@@ -32630,6 +32840,12 @@
             "value" : "게시할 이미지"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obraz(ki) do publikacji na mastodonie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32662,6 +32878,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obrazki"
           }
         },
         "pt-BR" : {
@@ -32717,6 +32939,12 @@
             "value" : "Instance"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serwer"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32767,6 +32995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "서버 관리자"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Administrator serwera"
           }
         },
         "pt-BR" : {
@@ -34354,6 +34588,12 @@
             "value" : "DeepL API 키를 삭제하지 않으면, 마스토돈 서버의 번역 서비스를 사용할 수 없을 때 DeepL을 사용합니다."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Można go jednak nadal używać jako rozwiązanie awaryjne dla tłumacza Twojej instancji."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34392,6 +34632,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantiene la home aggiornata in tempo reale utilizzando lo streaming quando disponibile. Disattiva in caso di problemi di prestazioni."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utrzymuje twój strumień strony domowej w czasie rzeczywistym korzystając ze strumieniowania gdy jest dostępne. Wyłącz w przypadku problemów wydajnościowych."
           }
         }
       }
@@ -34439,6 +34685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sleutel"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klucz"
           }
         },
         "pt-BR" : {
@@ -35223,6 +35475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lijsten"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listy"
           }
         },
         "pt-BR" : {
@@ -36248,6 +36506,12 @@
             "value" : "Lokale tijdlijn"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strumień lokalny"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36316,6 +36580,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vermeldingen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wzmianki"
           }
         },
         "pt-BR" : {
@@ -37185,6 +37455,12 @@
             "state" : "translated",
             "value" : "Statistiche"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statystyki"
+          }
         }
       }
     },
@@ -37212,6 +37488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "월간 활성 사용자 수"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miesięczna liczba aktywnych osób"
           }
         },
         "pt-BR" : {
@@ -37266,6 +37548,12 @@
             "value" : "Nieuw bericht"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nowy post"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37318,6 +37606,12 @@
             "value" : "제공된 이미지가 없습니다."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie dostarczono obrazków do opublikowania."
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37368,6 +37662,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Meldingen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Powiadomienia"
           }
         },
         "pt-BR" : {
@@ -37763,6 +38063,12 @@
             "state" : "translated",
             "value" : "Account moderati"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konta moderowane"
+          }
         }
       }
     },
@@ -37791,6 +38097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Limitati dai moderatori dei server"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ograniczone przez moderatorów serwera"
           }
         }
       }
@@ -37940,6 +38252,12 @@
             "state" : "translated",
             "value" : "Creati negli ultimi 30 giorni"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utworzone w ciągu ostatnich 30 dni"
+          }
         }
       }
     },
@@ -38087,6 +38405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E che ti seguono da meno di 3 giorni"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I obserwuję cię od niecałych 3 dni"
           }
         }
       }
@@ -38236,6 +38560,12 @@
             "state" : "translated",
             "value" : "Finché non li approvi manualmente"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dopóki ich ręcznie nie zatwierdzisz"
+          }
         }
       }
     },
@@ -38383,6 +38713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A meno che non sia una risposta a una tua menzione o se segui il mittente"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chyba że jest to odpowiedź na własną wzmiankę lub jeśli obserwujesz nadawcę"
           }
         }
       }
@@ -38532,6 +38868,12 @@
             "state" : "translated",
             "value" : "Seleziona"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybierz"
+          }
         }
       }
     },
@@ -38560,6 +38902,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seleziona tutto"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybierz wszystkie"
           }
         }
       }
@@ -42753,6 +43101,12 @@
             "value" : "Open Ice Cubes"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otwórz Ice Cubes"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42823,6 +43177,12 @@
             "value" : "Open op een tab"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otwórz w zakładce"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42891,6 +43251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open de app op een specifieke tab"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otwórz aplikację w określonej zakładce"
           }
         },
         "pt-BR" : {
@@ -43199,6 +43565,12 @@
             "value" : "Plaats een bericht met een afbeelding"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opublikuj status z obrazkiem"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43267,6 +43639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plaats een afbeelding op Mastodon"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opublikuj obrazek na Mastodonie"
           }
         },
         "pt-BR" : {
@@ -43339,6 +43717,12 @@
             "value" : "Plaats materiaal"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zawartość postu"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43403,6 +43787,12 @@
             "value" : "Zichtbaarheid"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widoczność postu"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43455,6 +43845,12 @@
             "value" : "%lld개 이미지 게시됨"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opublikowano %lld obraz(ów) na Mastodonie"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43493,6 +43889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개인정보 처리방침"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Polityka prywatności"
           }
         },
         "pt-BR" : {
@@ -43565,6 +43967,12 @@
             "value" : "Privé"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prywatne"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43633,6 +44041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Privéberichten"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prywatne wiadomości"
           }
         },
         "pt-BR" : {
@@ -43705,6 +44119,12 @@
             "value" : "Profiel"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43773,6 +44193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Openbaar"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publiczne"
           }
         },
         "pt-BR" : {
@@ -43845,6 +44271,12 @@
             "value" : "Minder openbaar"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Publiczny niewyróżniony"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43901,6 +44333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "캐시 데이터로 저장된 모든 미디어를 삭제합니다."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usuń wszystkie obrazki i filmy z bufora"
           }
         },
         "pt-BR" : {
@@ -44447,6 +44885,12 @@
             "value" : "Geselecteerde tab"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybrana zakładka"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44517,6 +44961,12 @@
             "value" : "Verstuur bericht"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyślij post"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44581,6 +45031,12 @@
             "value" : "Ice Cubes로 마스토돈에 글을 작성합니다."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyślij post tekstowy na Mastodon przez Ice Cubes"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44633,6 +45089,12 @@
             "value" : "글과 이미지를 게시합니다."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyślij jeden lub kilka obrazków na  Mastodon przez Ice Cubes bez otwierania aplikacji"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44667,6 +45129,12 @@
             "value" : "글과 이미지 게시하기"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyślij obraz(ki) (w tle)"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44699,6 +45167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "글과 이미지 게시하기"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyślij obraz(ki) na Mastodon"
           }
         },
         "pt-BR" : {
@@ -44745,6 +45219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "글 게시하기"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyślij post na Mastodon"
           }
         },
         "pt-BR" : {
@@ -44815,6 +45295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instellingen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustawienia"
           }
         },
         "pt-BR" : {
@@ -48879,6 +49365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avatar e copertine animati"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Animowane awatary i nagłówki"
           }
         }
       }
@@ -55268,6 +55760,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abilita emoji animate"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Włącz animowane emoji"
           }
         }
       }
@@ -62206,7 +62704,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Akcje przeciągania palcem są dostępne po przesunięciu posta w lewo lub w prawo. Akcja dodatkowa jest dostępna tylko wtedy, gdy ustawiona jest akcja podstawowa."
+            "value" : "Akcje przeciągania palcem są dostępne po przesunięciu postu w lewo lub w prawo. Akcja dodatkowa jest dostępna tylko wtedy, gdy ustawiona jest akcja podstawowa."
           }
         },
         "pt-BR" : {
@@ -64211,7 +64709,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Ta funkcja wymaga klucza DeepL API"
           }
         },
@@ -77976,6 +78474,36 @@
             }
           }
         },
+        "pl" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "%lld cytaty"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "%lld cytatów"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "%lld cytat"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "%lld cytatów"
+                }
+              }
+            }
+          }
+        },
         "pt-BR" : {
           "variations" : {
             "plural" : {
@@ -78845,6 +79373,12 @@
             "value" : "홈에서 글 자동 새로고침"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strumień strony głównej na bieżąco"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78895,6 +79429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tab"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakładka"
           }
         },
         "pt-BR" : {
@@ -80608,6 +81148,12 @@
             "value" : "사용 정보 수집"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telemetria"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80664,6 +81210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "TelemetryDeck을 통해 사용 정보 수집됨"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telemetria TelemetryDeck"
           }
         },
         "pt-BR" : {
@@ -80737,6 +81289,12 @@
             "value" : "De DeepL API-sleutel is nog steeds opgeslagen!"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klucz DeepL API jest nadal zapisany!"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80806,6 +81364,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De Vertaalservice van deze server is onbereikbaar!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie udało się nawiązać połączenia z usługą tłumacza Twojego serwera!"
           }
         },
         "pt-BR" : {
@@ -82379,6 +82943,12 @@
             "state" : "translated",
             "value" : "Verberg posts van bots"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukryj posty przed botami"
+          }
         }
       }
     },
@@ -82464,8 +83034,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Hide posts with media"
+            "state" : "translated",
+            "value" : "Ukryj posty z mediami"
           }
         },
         "pt-BR" : {
@@ -85000,6 +85570,12 @@
             "value" : "TimelineFilter"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtr strumienia"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -85058,6 +85634,12 @@
             "state" : "translated",
             "value" : "Salvato nelle bozze"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zachowano w wersjach roboczych"
+          }
         }
       }
     },
@@ -85092,6 +85674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Post inviato"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Post wysłany"
           }
         }
       }
@@ -85128,6 +85716,12 @@
             "state" : "translated",
             "value" : "Pubblicazione"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publikowanie"
+          }
         }
       }
     },
@@ -85162,6 +85756,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile eliminare il post"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie udało się usunąć postu"
           }
         }
       }
@@ -85198,6 +85798,12 @@
             "state" : "translated",
             "value" : "Post eliminato"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Post usunięty"
+          }
         }
       }
     },
@@ -85232,6 +85838,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elimino post"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usuwanie postu"
           }
         }
       }
@@ -85285,6 +85897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vertaalservice"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usługa tłumacza"
           }
         },
         "pt-BR" : {
@@ -85357,6 +85975,12 @@
             "value" : "Trending Links"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popularne linki"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -85419,6 +86043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "뜨고 있는"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Strumień popularności"
           }
         },
         "pt-BR" : {
@@ -85832,6 +86462,12 @@
             "value" : "긴 글 본문을 일부만 표시"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wymaż treść statusu"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -85876,6 +86512,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "글 작성 화면을 엽니다."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Użyj Ice Cubes do pisania postów na Mastodonie"
           }
         },
         "pt-BR" : {
@@ -85942,6 +86584,12 @@
             "value" : "글 작성 화면을 열고 이미지를 첨부합니다."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Użyj Ice Cubes do pisania postów z obrazkami na Mastodonie"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -86006,6 +86654,12 @@
             "value" : "Zichtbaarheid"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widoczność"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -86068,6 +86722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zichtbaarheid van je bericht"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widoczność Twojego postu"
           }
         },
         "pt-BR" : {
